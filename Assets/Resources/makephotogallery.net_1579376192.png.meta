@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 7ffa5ad401982bb4d9c4b9fd9275fca2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3033687855269032842
+    second: makephotogallery.net_1579376192_0
+  - first:
+      213: -8182942664939462613
+    second: makephotogallery.net_1579376192_1
+  - first:
+      213: 3070446460677331466
+    second: makephotogallery.net_1579376192_2
+  - first:
+      213: 4582344969340124511
+    second: makephotogallery.net_1579376192_3
+  - first:
+      213: 1220984547319578975
+    second: makephotogallery.net_1579376192_4
+  - first:
+      213: 705552783700756590
+    second: makephotogallery.net_1579376192_5
+  - first:
+      213: 3379650006638066958
+    second: makephotogallery.net_1579376192_6
+  - first:
+      213: 2006098335653565714
+    second: makephotogallery.net_1579376192_7
+  - first:
+      213: -7671149918184477075
+    second: makephotogallery.net_1579376192_8
+  - first:
+      213: 1304144625253249032
+    second: makephotogallery.net_1579376192_9
+  - first:
+      213: 3301140578461200654
+    second: makephotogallery.net_1579376192_10
+  - first:
+      213: -5594010139468576243
+    second: makephotogallery.net_1579376192_11
+  - first:
+      213: 7683912320932130318
+    second: makephotogallery.net_1579376192_12
+  - first:
+      213: -696456797012445078
+    second: makephotogallery.net_1579376192_13
+  - first:
+      213: 6847293308183057197
+    second: makephotogallery.net_1579376192_14
+  - first:
+      213: -1451483012339173671
+    second: makephotogallery.net_1579376192_15
+  - first:
+      213: 8368575669038888382
+    second: makephotogallery.net_1579376192_16
+  - first:
+      213: 5213478882023482746
+    second: makephotogallery.net_1579376192_17
+  - first:
+      213: -5031149182740875909
+    second: makephotogallery.net_1579376192_18
+  - first:
+      213: 4378006431759325444
+    second: makephotogallery.net_1579376192_19
+  - first:
+      213: -5758795035113556518
+    second: makephotogallery.net_1579376192_20
+  - first:
+      213: -2586454639854520381
+    second: makephotogallery.net_1579376192_21
+  - first:
+      213: -9073980145140780714
+    second: makephotogallery.net_1579376192_22
+  - first:
+      213: -4072115420305216582
+    second: makephotogallery.net_1579376192_23
+  - first:
+      213: -3113240428290386456
+    second: makephotogallery.net_1579376192_24
+  - first:
+      213: 2748435466082010023
+    second: makephotogallery.net_1579376192_25
+  - first:
+      213: -4133949262784725723
+    second: makephotogallery.net_1579376192_26
+  - first:
+      213: -5662299112501535118
+    second: makephotogallery.net_1579376192_27
+  - first:
+      213: 2885751505250811050
+    second: makephotogallery.net_1579376192_28
+  - first:
+      213: -1821945060553176695
+    second: makephotogallery.net_1579376192_29
+  - first:
+      213: 665645377343041349
+    second: makephotogallery.net_1579376192_30
+  - first:
+      213: 7938792237910217244
+    second: makephotogallery.net_1579376192_31
+  - first:
+      213: 1621605670572000988
+    second: makephotogallery.net_1579376192_32
+  - first:
+      213: 1524379807410117628
+    second: makephotogallery.net_1579376192_33
+  - first:
+      213: -1329218285624649202
+    second: makephotogallery.net_1579376192_34
+  - first:
+      213: 1998716626853929333
+    second: makephotogallery.net_1579376192_35
+  - first:
+      213: 9049239397627336088
+    second: makephotogallery.net_1579376192_36
+  - first:
+      213: -4636575271891019643
+    second: makephotogallery.net_1579376192_37
+  - first:
+      213: -1918713433505305933
+    second: makephotogallery.net_1579376192_38
+  - first:
+      213: -4811600927015953208
+    second: makephotogallery.net_1579376192_39
+  - first:
+      213: -5926029278389741318
+    second: makephotogallery.net_1579376192_40
+  - first:
+      213: 6492436938130663257
+    second: makephotogallery.net_1579376192_41
+  - first:
+      213: -7489812846399921477
+    second: makephotogallery.net_1579376192_42
+  - first:
+      213: -8840000748260009262
+    second: makephotogallery.net_1579376192_43
+  - first:
+      213: -3330391284353938965
+    second: makephotogallery.net_1579376192_44
+  - first:
+      213: -1085973530269670096
+    second: makephotogallery.net_1579376192_45
+  - first:
+      213: 5500257386053410880
+    second: makephotogallery.net_1579376192_46
+  - first:
+      213: 4063410498570701123
+    second: makephotogallery.net_1579376192_47
+  - first:
+      213: -3622686132529834425
+    second: makephotogallery.net_1579376192_48
+  - first:
+      213: -1254523409070236867
+    second: makephotogallery.net_1579376192_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 164
+        width: 64
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d33cde4d5457b47a045c161792f8d1
+      internalID: -3033687855269032842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 164
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e7ed3aa5d50b47a3d6cae861f95f1
+      internalID: -8182942664939462613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 164
+        width: 62
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac910e8d8c01e864c934dd5a95101ecc
+      internalID: 3070446460677331466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 164
+        width: 61
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdc532d954f1c145bc9ac3eaa0e6ced
+      internalID: 4582344969340124511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c261f0dd34d924792565d84d6d7392
+      internalID: 1220984547319578975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 164
+        width: 59
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa8ff45d34d4f40ba7528faa4c3c9d
+      internalID: 705552783700756590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 164
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036694af1d907d4ca41edf4154ebddf
+      internalID: 3379650006638066958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 142
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8baed498023ae94b83b3f8b0d201f71
+      internalID: 2006098335653565714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 142
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da95e6702cff3429b8d59a3e828f92
+      internalID: -7671149918184477075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 142
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5dcdc40b2ae84aada6630febe3225
+      internalID: 1304144625253249032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 142
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e5dc4687367f943b0bdefe3d2505ce
+      internalID: 3301140578461200654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 142
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14decd8bac0a90f4ca2dfcebb2386606
+      internalID: -5594010139468576243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_12
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 142
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e518d5af5b8a4e93f70f4a461b77c
+      internalID: 7683912320932130318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_13
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 142
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a934bfc4565134bbdfd609ad77a1c2
+      internalID: -696456797012445078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 50
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec4a331ec89f6408def983fe8911de
+      internalID: 6847293308183057197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 120
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209527aaeef51eb49807b653db98e8eb
+      internalID: -1451483012339173671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 120
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddac22a6959da547be5a322b7f256ae
+      internalID: 8368575669038888382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d749f2a7a1e0d4490736495605555f
+      internalID: 5213478882023482746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3cf5164b56a84b98ce31be23ca354
+      internalID: -5031149182740875909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 120
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fbcee866f3d844a960faa329f3761e
+      internalID: 4378006431759325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 120
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a5ad2a13f59f459da3f3fc4ff16f9
+      internalID: -5758795035113556518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135b5a880f3e54946bcc9de00bf2df9f
+      internalID: -2586454639854520381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 98
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5669bedde196da64195535c7c6041fff
+      internalID: -9073980145140780714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 98
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b7965a840e6204c9194e58ca0ea82d
+      internalID: -4072115420305216582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 98
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720a76a9869a764dae97564374e571a
+      internalID: -3113240428290386456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_25
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 98
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae281cf5ec08b143b9eca660b9d0b7d
+      internalID: 2748435466082010023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 98
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa332331e9bec8a43872b0abb8950106
+      internalID: -4133949262784725723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 98
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c58a258efff74c812c3c8b88ebdcf
+      internalID: -5662299112501535118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77fd78745ebe154e822bfa8aceea6d5
+      internalID: 2885751505250811050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6a114a7f206940a7293f31287c7dc
+      internalID: -1821945060553176695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_30
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 76
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdefb24674d6d6144abcaac4928f48f7
+      internalID: 665645377343041349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c2925f4be7d9479382f7b6d355367
+      internalID: 7938792237910217244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_32
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 76
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f36f165373ac48892796718329134
+      internalID: 1621605670572000988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 76
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6582b2b4012646478130f618c2d596f
+      internalID: 1524379807410117628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_34
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 76
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee3dbea70743f428b3b892ded2c689
+      internalID: -1329218285624649202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea880fe478eeb49bcf2176eed30121
+      internalID: 1998716626853929333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 54
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d25d4da2cbdb4aa1cfc61f4a78369
+      internalID: 9049239397627336088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb830bede2c606941a1c31fc1ac43120
+      internalID: -4636575271891019643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 54
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb93f17544568e45a1774246bc8ce58
+      internalID: -1918713433505305933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 54
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664d39d55ce4b94289b3bf1efe52fe9
+      internalID: -4811600927015953208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_40
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 54
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dfc2e039c70084f8d7c3ab1902c726
+      internalID: -5926029278389741318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 54
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbde9fb3df409c4187ee10ec20e43f3
+      internalID: 6492436938130663257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2b516419d15c14baa2d953566a5bda
+      internalID: -7489812846399921477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdedac7830d6aa49a295c4e6ca65ae1
+      internalID: -8840000748260009262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_44
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 32
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a651086f5f3e84f8d12667646f37be
+      internalID: -3330391284353938965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 32
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bdef4881fab3944b93daf95a9440b0
+      internalID: -1085973530269670096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 32
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d63df0b4a5528843bdab9f446cf29ea
+      internalID: 5500257386053410880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 32
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64014a5052004504a81025cfb82d134b
+      internalID: 4063410498570701123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 32
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1700e2adbb0f7cf468d03ec3f6cfb44f
+      internalID: -3622686132529834425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makephotogallery.net_1579376192_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921be2506913e241bfeeca527d9e627
+      internalID: -1254523409070236867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

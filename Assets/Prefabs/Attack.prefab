@@ -153,10 +153,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerId: 0
   clip: {fileID: 8300000, guid: 2085b2d9f45666c43994a591d7ae4a61, type: 3}
-  damageTimes:
-  - 0.2
-  - 0.2
-  - 0.2
+  maxTime: 40
+  maxDamage: 20
+  damageDropoffMultiplier: 2
 --- !u!58 &-6442350628521944275
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
 
     public int playerId; //1 or 2 - player's id
     public GameObject attackPrefab; //attack prefab
+    public GameObject healthBar;
     public float maxHealth;
 
     public AudioClip[] audioClips; //array of audioclips saved on the player
@@ -30,11 +31,17 @@ public class PlayerController : MonoBehaviour
     public void GotHit(int damage)
     {
         audioSource.PlayOneShot(audioClips[0]);
+        health = Mathf.Max(health - damage, 0);
+        healthBar.GetComponent<HealthBarController>().GotHit(health, maxHealth);
+        //Debug.Log(health + " health remaining");
     }
 
     //Player clicked, start an attack
     private void OnMouseDown()
     {
+        if (currentAttack != null)
+            Destroy(currentAttack);
+
         //Initialize an attacks
         currentAttack = Instantiate(attackPrefab, transform.parent);
         currentAttack.GetComponent<AttackController>().playerId = playerId;

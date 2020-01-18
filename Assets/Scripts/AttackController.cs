@@ -6,40 +6,23 @@ public class AttackController : MonoBehaviour
 {
     public int playerId;
     public AudioClip clip;
-    public float[] damageTimes;
+    public float maxTime;
+    public int maxDamage;
+    public float damageDropoffMultiplier;
 
     int damage;
-    private int state;
 
     private Camera cam;
+    private float lifeTime;
 
     private void Start()
     {
-        damage = 3;
-        state = 0;
+        damage = maxDamage;
         cam = Camera.main;
 
         Vector3 mousePosition = cam.ScreenToWorldPoint(Input.mousePosition);
         mousePosition.z = 0;
         transform.position = mousePosition;
-
-        StartCoroutine(LowerDamage());
-    }
-
-    private void Update()
-    {
-        AttackControl();
-    }
-
-    IEnumerator LowerDamage()
-    {
-        yield return new WaitForSeconds(damageTimes[state]);
-        state++;
-        damage--;
-        if (damage > 0)
-            StartCoroutine(LowerDamage());
-        else
-            Destroy(gameObject);
     }
 
     public void DestroyAttack(bool playOOF)
@@ -48,6 +31,14 @@ public class AttackController : MonoBehaviour
         if (playOOF)
             AudioSource.PlayClipAtPoint(clip, transform.position);
 
+    }
+
+    private void FixedUpdate()
+    {
+        AttackControl();
+        lifeTime++;
+        if (lifeTime >= maxTime)
+            DestroyAttack(false);
     }
 
     private void AttackControl()
@@ -76,10 +67,11 @@ public class AttackController : MonoBehaviour
                     }
                     else if (hit.collider.tag == "Player")
                     {
+                        CalculateDamage();
                         //PLayer was hit
                         if (hit.collider.GetComponent<PlayerController>().playerId != playerId)
                         {
-                            Debug.Log(damage + " damage");
+                            //Debug.Log(damage + " damage");
                             hit.collider.GetComponent<PlayerController>().GotHit(damage);
                             DestroyAttack(false);
                         }
@@ -95,5 +87,9 @@ public class AttackController : MonoBehaviour
             //destroy attack, no sound
             DestroyAttack(false);
         }
+    }
+    private void CalculateDamage()
+    {
+        damage = Mathf.Max((int)((float)maxDamage * Mathf.Pow(1 - lifeTime/maxTime, damageDropoffMultiplier)), 1);
     }
 }
