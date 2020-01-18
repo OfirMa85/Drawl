@@ -143,12 +143,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerId: 0
-  maxHealth: 100
   attackPrefab: {fileID: 974067880770222289, guid: 4fb56aeb3023ee24aa133eb12052c78d,
     type: 3}
   shieldOrbPrefab: {fileID: 195309739444664549, guid: 97b6d2c262eb96d46a35528cf53095f1,
     type: 3}
-  damage: 20
   maxShieldOrbs: 6
   shieldOffset: 0.5
   shieldRotationSpeed: 0.2

@@ -96,3 +96,7 @@ MonoBehaviour:
   shieldOffset: 0
   rotationSpeed: 0
   rotation: 0
+  sprites:
+  - {fileID: 21300000, guid: 7c8ae0df23dad374e8be8254457acaae, type: 3}
+  - {fileID: 21300000, guid: 2cf3a03dc58a7f64fa02efcb08ae3265, type: 3}
+  - {fileID: 21300000, guid: ffaf61d411073b242814a068101c7734, type: 3}
